@@ -1,13 +1,13 @@
 Rzeczy do odhaczenia na ten projekt:
-- Box-model
-- Kaskadowość
-- Selektory CSS
-- Popularne tagi HTML
-- Jak podpinać CSSa do HTMLa
-- Zapisywanie kolorów
-- Zewnętrzne ikony/fonty (fontawesome, google fonts)
+- Box-model v 
+- Kaskadowość v
+- Selektory CSS v
+- Popularne tagi HTML v
+- Jak podpinać CSSa do HTMLa v
+- Zapisywanie kolorów v
+- Zewnętrzne ikony/fonty (fontawesome, google fonts) v
 - Flexbox
-- Position (absolute, relative)
+- Position (absolute, relative) v
 - Animacje keyframes
 - Bootstrap
 
