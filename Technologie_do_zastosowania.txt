@@ -1,0 +1,14 @@
+Rzeczy do odhaczenia na ten projekt:
+- Box-model
+- Kaskadowość
+- Selektory CSS
+- Popularne tagi HTML
+- Jak podpinać CSSa do HTMLa
+- Zapisywanie kolorów
+- Zewnętrzne ikony/fonty (fontawesome, google fonts)
+- Flexbox
+- Position (absolute, relative)
+- Animacje keyframes
+- Bootstrap
+
+https://www.figma.com/file/imz81mJf8mRpA62bzVOxWE/Portfolio-page-Coders-Camp?node-id=0%3A1
