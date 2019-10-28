@@ -10,13 +10,16 @@
     clear: both;
 }
 
+
+/* Header  */
+
 header {
     position: relative;
     background-color: #29a6dc;
     height: 100vh;
     color: white;
     overflow: hidden;
-    max-width: 1920px;
+    max-width: 1600px;
     margin: 0 auto;
 }
 
@@ -68,4 +71,49 @@ header button {
 header button:hover {
     background-color: #fff;
     color: #29a6dc;
+}
+
+
+
+/* Section Features */
+
+.features {
+    max-width: 1600px;
+    margin: 30px auto 0 auto;
+    text-align: center;
+    padding: 5% 2%;
+}
+
+.features h1 {
+    font-family: 'Saira Semi Condensed',
+        sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.feature {
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+}
+
+.feature img {
+    width: 100%;
+    margin: 5px 0;
+    max-width: 375px;
+}
+
+.feature h2 {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 21px;
+}
+
+.feature p {
+    margin-top: 5px;
+    font-family: 'Saira', sans-serif;
+    font-weight: 300;
+    line-height: 120%;
+    font-size: 16px;
+    padding: 0 10px;
 }
