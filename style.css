@@ -73,6 +73,33 @@ header button:hover {
     color: #29a6dc;
 }
 
+header .animation {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    animation: header 20s linear infinite;
+    font-size: 20px;
+}
+
+@keyframes header {
+    35% {
+        left: calc(100% - 30px);
+        top: 30px;
+        /* right: 30px; */
+    }
+
+    55% {
+        left: calc(100% - 30px);
+        top: calc(100% - 30px);
+    }
+
+    85% {
+        left: 30px;
+        top: calc(100% - 30px);
+    }
+
+}
+
 
 
 /* Section Features */
