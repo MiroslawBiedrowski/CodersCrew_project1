@@ -6,9 +6,9 @@ Rzeczy do odhaczenia na ten projekt:
 - Jak podpinać CSSa do HTMLa v
 - Zapisywanie kolorów v
 - Zewnętrzne ikony/fonty (fontawesome, google fonts) v
-- Flexbox
+- Flexbox 
 - Position (absolute, relative) v
-- Animacje keyframes
+- Animacje keyframes v
 - Bootstrap
 
 https://www.figma.com/file/imz81mJf8mRpA62bzVOxWE/Portfolio-page-Coders-Camp?node-id=0%3A1

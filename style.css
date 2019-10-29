@@ -183,3 +183,80 @@ header .animation {
     text-align: right;
     padding-right: 30px;
 }
+
+/* Section Slogan */
+
+.hobby {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hobby h2 {
+    width: 100%;
+    text-align: center;
+    height: 20%;
+}
+
+.hobby .item {
+    width: 50%;
+    height: 40%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.hobby .item:nth-of-type(1) {
+    background-image: url(images/hobby1.jpg)
+}
+
+.hobby .item:nth-of-type(2) {
+    background-image: url(images/hobby2.jpg)
+}
+
+.hobby .item:nth-of-type(3) {
+    background-image: url(images/hobby3.jpg)
+}
+
+.hobby .item:nth-of-type(4) {
+    background-image: url(images/hobby4.jpg)
+}
+
+.hobby h2 {
+    padding: 30px 0;
+    font-family: 'Saira', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+}
+
+.hobby .item p {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    text-shadow: 0 0 4px black;
+    background-color: rgba(0, 0, 0, .5);
+    font-size: 20px;
+    width: 100%;
+    height: 100%;
+    line-height: 40vh;
+    opacity: 0;
+}
+
+.hobby .item:hover p {
+    opacity: 1;
+}
+
+.hobby .item {
+    background-size: 100%;
+    transition: 1s;
+}
+
+.hobby .item:hover {
+    background-size: 130%;
+}
